@@ -11,7 +11,7 @@ class Home extends Component {
     posts: [],
     allPosts: [],
     page: 0,
-    postsPerPage: 10,
+    postsPerPage: 3,
     searchValue: ""
   };
 
